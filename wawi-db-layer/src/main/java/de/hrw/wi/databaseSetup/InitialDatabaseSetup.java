@@ -11,6 +11,8 @@ import java.sql.SQLException;
  * @author andriesc
  *
  */
+
+//Test branch_two
 public class InitialDatabaseSetup {
 	public static void main(String[] args) throws SQLException {
 
